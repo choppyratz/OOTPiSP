@@ -1,0 +1,7 @@
+C:\Users\Герман\source\repos\Plugin\bin\Debug\netstandard2.0\Plugin.deps.json
+C:\Users\Герман\source\repos\Plugin\bin\Debug\netstandard2.0\Plugin.dll
+C:\Users\Герман\source\repos\Plugin\bin\Debug\netstandard2.0\Plugin.pdb
+C:\Users\Герман\source\repos\Plugin\obj\Debug\netstandard2.0\Plugin.AssemblyInfoInputs.cache
+C:\Users\Герман\source\repos\Plugin\obj\Debug\netstandard2.0\Plugin.AssemblyInfo.cs
+C:\Users\Герман\source\repos\Plugin\obj\Debug\netstandard2.0\Plugin.dll
+C:\Users\Герман\source\repos\Plugin\obj\Debug\netstandard2.0\Plugin.pdb

@@ -1,0 +1,11 @@
+C:\Users\Герман\source\repos\ZipPlugin\bin\Debug\netstandard2.0\ZipPlugin.deps.json
+C:\Users\Герман\source\repos\ZipPlugin\bin\Debug\netstandard2.0\ZipPlugin.dll
+C:\Users\Герман\source\repos\ZipPlugin\bin\Debug\netstandard2.0\ZipPlugin.pdb
+C:\Users\Герман\source\repos\ZipPlugin\bin\Debug\netstandard2.0\Plugin.dll
+C:\Users\Герман\source\repos\ZipPlugin\bin\Debug\netstandard2.0\Plugin.pdb
+C:\Users\Герман\source\repos\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.csprojAssemblyReference.cache
+C:\Users\Герман\source\repos\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.AssemblyInfoInputs.cache
+C:\Users\Герман\source\repos\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.AssemblyInfo.cs
+C:\Users\Герман\source\repos\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.csproj.CopyComplete
+C:\Users\Герман\source\repos\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.dll
+C:\Users\Герман\source\repos\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.pdb

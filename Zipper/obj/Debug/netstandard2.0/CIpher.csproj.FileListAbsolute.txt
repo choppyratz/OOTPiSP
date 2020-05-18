@@ -1,0 +1,11 @@
+C:\Users\Герман\source\repos\CIpher\bin\Debug\netstandard2.0\CIpher.deps.json
+C:\Users\Герман\source\repos\CIpher\bin\Debug\netstandard2.0\CIpher.dll
+C:\Users\Герман\source\repos\CIpher\bin\Debug\netstandard2.0\CIpher.pdb
+C:\Users\Герман\source\repos\CIpher\bin\Debug\netstandard2.0\Plugin.dll
+C:\Users\Герман\source\repos\CIpher\bin\Debug\netstandard2.0\Plugin.pdb
+C:\Users\Герман\source\repos\CIpher\obj\Debug\netstandard2.0\CIpher.csprojAssemblyReference.cache
+C:\Users\Герман\source\repos\CIpher\obj\Debug\netstandard2.0\CIpher.AssemblyInfoInputs.cache
+C:\Users\Герман\source\repos\CIpher\obj\Debug\netstandard2.0\CIpher.AssemblyInfo.cs
+C:\Users\Герман\source\repos\CIpher\obj\Debug\netstandard2.0\CIpher.csproj.CopyComplete
+C:\Users\Герман\source\repos\CIpher\obj\Debug\netstandard2.0\CIpher.dll
+C:\Users\Герман\source\repos\CIpher\obj\Debug\netstandard2.0\CIpher.pdb
