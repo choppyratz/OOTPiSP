@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\German\\source\\repos\\ZipPlugin\\Cipher.csproj": {}
+    "C:\\Users\\German\\source\\repos\\Cipher\\Cipher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\German\\source\\repos\\Plugin\\Plugin.csproj": {
+    "C:\\Users\\German\\source\\repos\\Cipher\\Cipher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\German\\source\\repos\\Plugin\\Plugin.csproj",
-        "projectName": "Plugin",
-        "projectPath": "C:\\Users\\German\\source\\repos\\Plugin\\Plugin.csproj",
+        "projectUniqueName": "C:\\Users\\German\\source\\repos\\Cipher\\Cipher.csproj",
+        "projectName": "Cipher",
+        "projectPath": "C:\\Users\\German\\source\\repos\\Cipher\\Cipher.csproj",
         "packagesPath": "C:\\Users\\German\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\German\\source\\repos\\Plugin\\obj\\",
+        "outputPath": "C:\\Users\\German\\source\\repos\\Cipher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,7 +29,11 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\German\\source\\repos\\Plugin\\Plugin.csproj": {
+                "projectPath": "C:\\Users\\German\\source\\repos\\Plugin\\Plugin.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -62,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\German\\source\\repos\\ZipPlugin\\Cipher.csproj": {
+    "C:\\Users\\German\\source\\repos\\Plugin\\Plugin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\German\\source\\repos\\ZipPlugin\\Cipher.csproj",
-        "projectName": "Cipher",
-        "projectPath": "C:\\Users\\German\\source\\repos\\ZipPlugin\\Cipher.csproj",
+        "projectUniqueName": "C:\\Users\\German\\source\\repos\\Plugin\\Plugin.csproj",
+        "projectName": "Plugin",
+        "projectPath": "C:\\Users\\German\\source\\repos\\Plugin\\Plugin.csproj",
         "packagesPath": "C:\\Users\\German\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\German\\source\\repos\\ZipPlugin\\obj\\",
+        "outputPath": "C:\\Users\\German\\source\\repos\\Plugin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -87,11 +91,7 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {
-              "C:\\Users\\German\\source\\repos\\Plugin\\Plugin.csproj": {
-                "projectPath": "C:\\Users\\German\\source\\repos\\Plugin\\Plugin.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

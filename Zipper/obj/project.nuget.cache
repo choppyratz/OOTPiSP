@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s6bQRNIN9rNkmcEHoW3ksMEEr41M8KLy1qVJkxwQB+Sj89cmi/pkak9nM5FK2Vv3tcMTSqLg0j8Ede7eW4xIxw==",
+  "dgSpecHash": "ISp4nplqdCAihWMmlzlHK0QC9BpVmtRpjOOkxaHaF7xeIonIsJwAUOYeZY58e0dNLy5l+QRganpugPDvMJ2hFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\German\\source\\repos\\CIpher\\Zipper.csproj",
+  "projectFilePath": "C:\\Users\\German\\source\\repos\\Zipper\\Zipper.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

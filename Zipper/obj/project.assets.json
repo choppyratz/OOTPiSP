@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\German\\source\\repos\\CIpher\\Zipper.csproj",
+      "projectUniqueName": "C:\\Users\\German\\source\\repos\\Zipper\\Zipper.csproj",
       "projectName": "Zipper",
-      "projectPath": "C:\\Users\\German\\source\\repos\\CIpher\\Zipper.csproj",
+      "projectPath": "C:\\Users\\German\\source\\repos\\Zipper\\Zipper.csproj",
       "packagesPath": "C:\\Users\\German\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\German\\source\\repos\\CIpher\\obj\\",
+      "outputPath": "C:\\Users\\German\\source\\repos\\Zipper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

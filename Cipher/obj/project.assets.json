@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\German\\source\\repos\\ZipPlugin\\Cipher.csproj",
+      "projectUniqueName": "C:\\Users\\German\\source\\repos\\Cipher\\Cipher.csproj",
       "projectName": "Cipher",
-      "projectPath": "C:\\Users\\German\\source\\repos\\ZipPlugin\\Cipher.csproj",
+      "projectPath": "C:\\Users\\German\\source\\repos\\Cipher\\Cipher.csproj",
       "packagesPath": "C:\\Users\\German\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\German\\source\\repos\\ZipPlugin\\obj\\",
+      "outputPath": "C:\\Users\\German\\source\\repos\\Cipher\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
